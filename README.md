@@ -46,11 +46,11 @@ To run the examples provided in this tutorial, you need to have the following li
 
 You can install these libraries using pip:
 
-python
+```python
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
-
+```
 ## Fundamental Concepts
 
 ### Tokenization
